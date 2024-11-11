@@ -5,12 +5,17 @@ Random Backend
   This backend has been removed in 4.6.0
 
 * Native: Yes
-* Master: No
-* Slave: No
-* Superslave: No
+* Primary: No
+* Secondary: No
+* Producer: No
+* Consumer: No
+* Autosecondary: No
+* DNS Update: No
 * DNSSEC: Yes, no key storage
 * Disabled data: No
 * Comments: No
+* API: ???
+* Multiple instances: ???
 * Zone caching: No
 * Module name: built in
 * Launch: ``random``

@@ -2,12 +2,18 @@ TinyDNS Backend
 ===============
 
 * Native: Yes
-* Master: Yes
-* Slave: No
-* Superslave: No
+* Primary: Yes
+* Secondary: No
+* Producer: No
+* Consumer: No
+* Autosecondary: No
+* DNS Update: No
 * DNSSEC: No
-* Zone caching: Yes
+* Disabled data: ???
+* Comments: ???
+* API: ???
 * Multiple Instances: Yes
+* Zone caching: Yes
 * Module name: tinydns
 * Launch: ``tinydns``
 
