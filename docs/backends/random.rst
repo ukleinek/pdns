@@ -2,7 +2,7 @@ Random Backend
 ==============
 
 .. deprecated:: 4.6.0
-  This backend has been removed in 4.6.0
+  This backend was removed in 4.6.0
 
 * Native: Yes
 * Primary: No
